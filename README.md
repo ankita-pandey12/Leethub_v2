@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0496-next-greater-element-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sliding Window
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1903-largest-odd-number-in-string) |
 ## Math
