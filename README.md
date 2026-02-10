@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2104-sum-of-subarray-ranges) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3379-transformed-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3379-transformed-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0496-next-greater-element-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0104-maximum-depth-of-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
