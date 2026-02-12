@@ -15,34 +15,16 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        if(root==null)
-            return ans;
-        Queue<TreeNode> q = new LinkedList<>();
-        Map<Integer,Integer> map = new HashMap<>();
-        q.add(root);
-        q.add(null);
-        map.put(1,root.val);
-        int d=1;
-        while(!q.isEmpty()){
-            TreeNode curr = q.remove();
-            if(curr==null){
-                d++;
-                if(q.isEmpty())
-                    break;
-                else
-                    q.add(null);
-            }
-            else{
-                map.put(d,curr.val);
-                if(curr.left!=null)
-                    q.add(curr.left);
-                if(curr.right!=null)
-                    q.add(curr.right);
-            }
-        }
-        for(int k: map.values())
-            ans.add(k);
-        return ans;
+        List<Integer> res = new ArrayList<>();
+        rightDFS(root, 0, res);
+        return res;
+    }
+    public void rightDFS(TreeNode node, int level, List<Integer> res) {
+        if (node == null) return;
+        //first right node for a level is stored
+        if (res.size() == level)
+            res.add(node.val);
+        rightDFS(node.right, level + 1, res);
+        rightDFS(node.left, level + 1, res);
     }
 }
