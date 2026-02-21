@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1903-largest-odd-number-in-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
