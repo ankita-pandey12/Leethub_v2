@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0746-min-cost-climbing-stairs) |
