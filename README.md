@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0931-minimum-falling-path-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2104-sum-of-subarray-ranges) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3379-transformed-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3379-transformed-array) |
@@ -279,4 +280,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0931-minimum-falling-path-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
