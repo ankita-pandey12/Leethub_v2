@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0931-minimum-falling-path-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0931-minimum-falling-path-sum) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1903-largest-odd-number-in-string) |
