@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3379-transformed-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3379-transformed-array) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0761-special-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0761-special-binary-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0931-minimum-falling-path-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Union-Find
 |  |
 | ------- |
