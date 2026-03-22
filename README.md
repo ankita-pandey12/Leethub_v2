@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0931-minimum-falling-path-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2104-sum-of-subarray-ranges) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0931-minimum-falling-path-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Union-Find
