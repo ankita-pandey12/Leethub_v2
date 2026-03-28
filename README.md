@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2104-sum-of-subarray-ranges) |
+| [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3379-transformed-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3379-transformed-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1137-n-th-tribonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Greedy
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1903-largest-odd-number-in-string) |
+| [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1980-find-unique-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3713-longest-balanced-substring-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3714-longest-balanced-substring-ii) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0931-minimum-falling-path-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
