@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1903-largest-odd-number-in-string) |
 | [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3714-longest-balanced-substring-ii) |
 ## Math
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0673-number-of-longest-increasing-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
