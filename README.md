@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1048-longest-string-chain) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2104-sum-of-subarray-ranges) |
 | [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3379-transformed-array) |
 ## Dynamic Programming
 |  |
