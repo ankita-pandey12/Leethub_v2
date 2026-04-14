@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0064-minimum-path-sum) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0027-remove-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0696-count-binary-substrings) |
 | [1048-longest-string-chain](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1048-longest-string-chain) |
