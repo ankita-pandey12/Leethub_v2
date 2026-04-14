@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0213-house-robber-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0368-largest-divisible-subset) |
 | [0761-special-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0761-special-binary-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
 | [3713-longest-balanced-substring-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
