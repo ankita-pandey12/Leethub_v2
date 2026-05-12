@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0368-largest-divisible-subset) |
 | [0761-special-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0761-special-binary-string) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0696-count-binary-substrings) |
