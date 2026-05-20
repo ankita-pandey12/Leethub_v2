@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0063-unique-paths-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0189-rotate-array) |
