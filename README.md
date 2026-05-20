@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2104-sum-of-subarray-ranges) |
 | [2540-minimum-common-value](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
