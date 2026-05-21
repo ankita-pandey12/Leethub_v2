@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3379-transformed-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3379-transformed-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3546-equal-sum-grid-partition-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3714-longest-balanced-substring-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
@@ -425,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0705-design-hashset) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
