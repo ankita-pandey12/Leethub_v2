@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0064-minimum-path-sum) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0287-find-the-duplicate-number) |
