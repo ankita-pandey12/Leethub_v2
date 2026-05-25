@@ -20,7 +20,7 @@ class Solution {
         return ls;
     }
 
-    public void level(TreeNode root,List<List<Integer>> ls){
+    public void level(TreeNode root, List<List<Integer>> ls){
         if(root==null)
             return;
         Queue<TreeNode> q = new LinkedList<>();
@@ -31,11 +31,10 @@ class Solution {
             TreeNode curr = q.remove();
             if(curr==null){
                 ls.add(ld);
-                ld=new ArrayList<>();
+                ld = new ArrayList<>();
                 if(q.isEmpty())
                     break;
-                else
-                    q.add(null);
+                q.add(null);
             }
             else{
                 ld.add(curr.val);
