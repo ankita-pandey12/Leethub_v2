@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1382-balance-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2540-minimum-common-value) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
 |  |
 | ------- |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0696-count-binary-substrings) |
 | [1048-longest-string-chain](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1048-longest-string-chain) |
 | [2540-minimum-common-value](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2540-minimum-common-value) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
