@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0063-unique-paths-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0091-decode-ways) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0050-powx-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Rolling Hash
