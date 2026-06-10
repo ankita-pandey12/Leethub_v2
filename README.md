@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
