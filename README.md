@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0205-isomorphic-strings) |
+| [0516-longest-palindromic-subsequence](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0516-longest-palindromic-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0761-special-binary-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1021-remove-outermost-parentheses) |
