@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1048-longest-string-chain) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2540-minimum-common-value) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
