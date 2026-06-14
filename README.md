@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0496-next-greater-element-i) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0705-design-hashset) |
