@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3379-transformed-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3379-transformed-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3714-longest-balanced-substring-ii) |
 ## Math
