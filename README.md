@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Stack
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1382-balance-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2540-minimum-common-value) |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0173-binary-search-tree-iterator) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0705-design-hashset) |
 ## Trie
 |  |
@@ -574,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
