@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0205-isomorphic-strings) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0099-recover-binary-search-tree) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1980-find-unique-binary-string) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0931-minimum-falling-path-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
