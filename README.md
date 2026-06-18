@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0072-edit-distance) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0189-rotate-array) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Linked List
 |  |
