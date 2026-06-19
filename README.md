@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1048-longest-string-chain) |
 | [1340-jump-game-v](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1340-jump-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
