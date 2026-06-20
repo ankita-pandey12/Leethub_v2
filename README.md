@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1980-find-unique-binary-string) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1048-longest-string-chain) |
 | [1340-jump-game-v](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ankita-pandey12/Leethub_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
