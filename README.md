@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -615,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0023-merge-k-sorted-lists) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
