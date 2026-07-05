@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1382-balance-a-binary-search-tree) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0401-binary-watch) |
