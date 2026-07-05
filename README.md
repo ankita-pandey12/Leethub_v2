@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0300-longest-increasing-subsequence) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0368-largest-divisible-subset) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -685,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
