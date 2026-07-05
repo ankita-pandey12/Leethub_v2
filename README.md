@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0368-largest-divisible-subset) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1137-n-th-tribonacci-number) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Rolling Hash
