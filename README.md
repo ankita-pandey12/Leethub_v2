@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0347-top-k-frequent-elements) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0368-largest-divisible-subset) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0287-find-the-duplicate-number) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0237-delete-node-in-a-linked-list) |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
