@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1340-jump-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1732-find-the-highest-altitude) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1980-find-unique-binary-string) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1840-maximum-building-height) |
