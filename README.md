@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0705-design-hashset) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ankita-pandey12/Leethub_v2/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0761-special-binary-string) |
 | [0846-hand-of-straights](https://github.com/ankita-pandey12/Leethub_v2/tree/master/0846-hand-of-straights) |
